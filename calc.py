@@ -1,14 +1,14 @@
-def add(x,y):
+def add(x,y,z):
     pass
-def subtract(x,y):
+def subtract(x,y,z):
     pass
-def multiply(x,y):
+def multiply(x,y,z):
     pass
-def divide(x,y):
+def divide(x,y,z):
     pass
-def square(x,y):
+def square(x,y,z):
     pass
 
-def multiply(x,y):
-    return x*y
+def multiply(x,y,z):
+    return x*y*z
 +++++++
